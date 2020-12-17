@@ -71,6 +71,7 @@
 
 如果你觉得这份文档对你有帮助，请微信扫描下方的二维码进行捐赠，加油后将会和你分享更多的原创教程，谢谢！
 
-![](https://static01.imgkr.com/temp/9155a1283eac41318ad14e967cd202aa.jpg)
-![](https://static01.imgkr.com/temp/2b35381d9f824fc4a2de5d448ef3ce45.jpg)
+![image](https://static01.imgkr.com/temp/9155a1283eac41318ad14e967cd202aa.jpg)
+
+![image](https://static01.imgkr.com/temp/2b35381d9f824fc4a2de5d448ef3ce45.jpg)
 
