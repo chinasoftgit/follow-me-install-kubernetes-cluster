@@ -71,7 +71,7 @@
 
 如果你觉得这份文档对你有帮助，请微信扫描下方的二维码进行捐赠，加油后将会和你分享更多的原创教程，谢谢！
 
-![image](https://static01.imgkr.com/temp/9155a1283eac41318ad14e967cd202aa.jpg)
+![image](https://github.com/xiaobingchan/follow-me-install-kubernetes-cluster/blob/master/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
 
-![image](https://static01.imgkr.com/temp/2b35381d9f824fc4a2de5d448ef3ce45.jpg)
+![image](https://github.com/xiaobingchan/follow-me-install-kubernetes-cluster/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
 
